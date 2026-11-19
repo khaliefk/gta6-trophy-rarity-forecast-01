@@ -1,0 +1,588 @@
+{
+  "game": {
+    "name": "Grand Theft Auto VI",
+    "platform": "PS5",
+    "release_date": "2026-11-19",
+    "source": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
+  },
+  "sources": [
+    {
+      "what": "Trophy list, tiers, descriptions, and the house's launch-night reads (first read 2026-11-18T23:50:49Z, 638 players tracked)",
+      "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+      "via": "make.fun kit input/p00.in (house recording of the page)",
+      "accessed": "2026-11-19"
+    },
+    {
+      "what": "Exophase page rates at 2026-11-19T13:59:00Z (rates_now_2026_11_19_1359z)",
+      "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+      "via": "direct page fetch",
+      "accessed": "2026-11-19T13:59:00Z"
+    },
+    {
+      "what": "Comparable launch-week trajectory: Phantom Blade Zero Steam achievements, day 2 vs day 11 (5th story step 8.3% to 55.3%; opener 90.9% to 94.9%; platinum 0.0% to 6.9%)",
+      "url": "https://phantombladezero.vi.ki/trophies-and-achievements",
+      "accessed": "2026-11-19"
+    },
+    {
+      "what": "GTA V final-mission completion, 16.8% of PS4 players over its lifetime (context for the final-mission ceiling)",
+      "url": "https://www.instagram.com/reel/Df2_TI7poKr/",
+      "accessed": "2026-11-19"
+    }
+  ],
+  "notes": [
+    "rates_first_read are the launch-night rates at 638 players tracked (early-access population); rates_now_2026_11_19_1359z are the same page about 14 hours later, after the player base had grown several hundred-fold and the rates had been diluted down. The program itself does not read this file at run time; it forecasts from the case file alone. This file is the research record behind the model.",
+    "Trophy 2, Just Like Paradise (Complete Gone Fishing), sits at 99.99%: nearly every tracked player has it, so it behaves as the opener. Trophy 1, the platinum, and trophy 14, 100% completion, sit at the 0.03% floor in the 13:59Z read."
+  ],
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "tier": "platinum",
+      "points": 300,
+      "secret": false,
+      "rate_first_read_pct": 0.63,
+      "rate_2026_11_19_1359z_pct": 0.03
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 100,
+      "rate_2026_11_19_1359z_pct": 99.99
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 1.25,
+      "rate_2026_11_19_1359z_pct": 0.73
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 1.1,
+      "rate_2026_11_19_1359z_pct": 0.14
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 1.1,
+      "rate_2026_11_19_1359z_pct": 0.06
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 1.1,
+      "rate_2026_11_19_1359z_pct": 0.06
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "tier": "gold",
+      "points": 90,
+      "secret": true,
+      "rate_first_read_pct": 1.1,
+      "rate_2026_11_19_1359z_pct": 0.06
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 1.1,
+      "rate_2026_11_19_1359z_pct": 0.24
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 1.1,
+      "rate_2026_11_19_1359z_pct": 0.06
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 1.1,
+      "rate_2026_11_19_1359z_pct": 0.06
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 1.1,
+      "rate_2026_11_19_1359z_pct": 0.06
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 1.1,
+      "rate_2026_11_19_1359z_pct": 0.06
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 1.1,
+      "rate_2026_11_19_1359z_pct": 0.06
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "tier": "gold",
+      "points": 90,
+      "secret": false,
+      "rate_first_read_pct": 0.63,
+      "rate_2026_11_19_1359z_pct": 0.03
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "tier": "silver",
+      "points": 30,
+      "secret": false,
+      "rate_first_read_pct": 0.63,
+      "rate_2026_11_19_1359z_pct": 0.03
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.04
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "tier": "silver",
+      "points": 30,
+      "secret": false,
+      "rate_first_read_pct": 0.63,
+      "rate_2026_11_19_1359z_pct": 0.04
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 0.63,
+      "rate_2026_11_19_1359z_pct": 0.03
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.04
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 2.04,
+      "rate_2026_11_19_1359z_pct": 1.89
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 0.94,
+      "rate_2026_11_19_1359z_pct": 0.41
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.04
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.04
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.04
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "tier": "silver",
+      "points": 30,
+      "secret": false,
+      "rate_first_read_pct": 0.63,
+      "rate_2026_11_19_1359z_pct": 0.03
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 0.63,
+      "rate_2026_11_19_1359z_pct": 0.03
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.04
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 0.63,
+      "rate_2026_11_19_1359z_pct": 0.03
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.04
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "tier": "silver",
+      "points": 30,
+      "secret": false,
+      "rate_first_read_pct": 0.63,
+      "rate_2026_11_19_1359z_pct": 0.03
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "tier": "silver",
+      "points": 30,
+      "secret": false,
+      "rate_first_read_pct": 0.63,
+      "rate_2026_11_19_1359z_pct": 0.03
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 0.63,
+      "rate_2026_11_19_1359z_pct": 0.03
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 0.94,
+      "rate_2026_11_19_1359z_pct": 0.09
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.05
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 1.25,
+      "rate_2026_11_19_1359z_pct": 0.24
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.06
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 0.94,
+      "rate_2026_11_19_1359z_pct": 0.14
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 1.57,
+      "rate_2026_11_19_1359z_pct": 0.14
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 0.94,
+      "rate_2026_11_19_1359z_pct": 0.06
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "tier": "silver",
+      "points": 30,
+      "secret": false,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.04
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 0.94,
+      "rate_2026_11_19_1359z_pct": 0.04
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.04
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.04
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 0.94,
+      "rate_2026_11_19_1359z_pct": 0.08
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.04
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.09
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.04
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.05
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.04
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.11
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": true,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.06
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.04
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 0.94,
+      "rate_2026_11_19_1359z_pct": 0.05
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.04
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "tier": "bronze",
+      "points": 15,
+      "secret": false,
+      "rate_first_read_pct": 0.78,
+      "rate_2026_11_19_1359z_pct": 0.04
+    }
+  ]
+}
